@@ -1,0 +1,6 @@
+framework module Pods_XJHttpEngineUITests {
+  umbrella header "Pods-XJHttpEngineUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
